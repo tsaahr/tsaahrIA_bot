@@ -1,4 +1,6 @@
-import ReminderForm from "../components/ReminderForm";
+import { ReminderForm } from "@/components/reminders/ReminderForm";
+import "@/app/globals.css";
+
 
 export default function Home() {
   return (
